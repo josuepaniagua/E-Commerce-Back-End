@@ -12,7 +12,7 @@ Josue Paniagua
 (https://github.com/josuepaniagua)
 
 ## *Description*
-
+A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, and Sequelize.
 
 ## *Installation*
 Steps to follow to install E-Commerce Back End project:
