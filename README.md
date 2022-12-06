@@ -15,7 +15,7 @@ Josue Paniagua
 
 
 ## *Installation*
-Steps to follow to install weather-dashboard project:
+Steps to follow to install E-Commerce Back End project:
 1. Go to Gitbash and select a folder to store the project
 2. Use the git clone command to clone the repo
 3. Use Visual Studio to open the folder and access the project
